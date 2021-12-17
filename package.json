@@ -24,6 +24,7 @@
     "fix": "node_modules/.bin/eslint --fix src/ . --ext .ts"
   },
   "dependencies": {
+    "@types/react": "^17.0.37",
     "@workadventure/scripting-api-extra": "^1.0.5"
   }
 }
