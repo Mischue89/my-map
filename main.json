@@ -266,17 +266,12 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Credits: \nAssets - Galacti-Chron's Sci-Fi Warehouse Tileset - Psychronic\nhttps:\/\/psychronic.itch.io\/galacti-chrons-sci-fi-warehouse-tileset\n\nAssets - Pipoya VFX WarpPortal - Pipoya\nhttps:\/\/pipoya.itch.io\/pipoya-free-vfx-warp-portal\n\n"
+         "value":"Mischue89\n\n"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
          "value":"Space Port"
-        }, 
-        {
-         "name":"mapImage",
-         "type":"string",
-         "value":"map.png"
         }, 
         {
          "name":"mapLink",
@@ -316,6 +311,11 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"Assets\nRC3 2021"
                         }]
                 }, 
                 {
@@ -346,6 +346,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"Logo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Assets\nR3S RC3 2021"
+                }],
          "spacing":0,
          "tilecount":144,
          "tileheight":32,
@@ -359,6 +365,12 @@
          "imagewidth":960,
          "margin":0,
          "name":"Portal 1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Assets\nPipoya VFX WarpPortal - Pipoya\nhttps:\/\/pipoya.itch.io\/pipoya-free-vfx-warp-portal"
+                }],
          "spacing":0,
          "tilecount":540,
          "tileheight":32,
@@ -1402,6 +1414,15 @@
          "tileheight":32,
          "tiles":[
                 {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"Assets\nGalacti-Chron's Sci-Fi Warehouse Tileset - Psychronic\nhttps:\/\/psychronic.itch.io\/galacti-chrons-sci-fi-warehouse-tileset"
+                        }]
+                }, 
+                {
                  "animation":[
                         {
                          "duration":200,
@@ -1971,6 +1992,12 @@
          "imagewidth":2160,
          "margin":0,
          "name":"10_Background_desktop_01",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Assets\nRC3 21 Styleguide\nKREATUR WORKS - hannesdenker.com"
+                }],
          "spacing":0,
          "tilecount":2479,
          "tileheight":32,
@@ -1984,6 +2011,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"Jitsi_Stream Tiles",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Mischue89"
+                }],
          "spacing":0,
          "tilecount":12,
          "tileheight":32,
