@@ -282,11 +282,6 @@
          "name":"mapName",
          "type":"string",
          "value":"RC3 WA"
-        }, 
-        {
-         "name":"script",
-         "type":"string",
-         "value":""
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
