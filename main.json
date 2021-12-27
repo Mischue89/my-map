@@ -300,6 +300,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"Special_Zones",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Assets \nRC3 2021"
+                }],
          "spacing":0,
          "tilecount":12,
          "tileheight":32,
@@ -1409,6 +1415,12 @@
          "imagewidth":480,
          "margin":0,
          "name":"WA Tileset Space",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Assets\nPsychronic\nhttps:\/\/psychronic.itch.io\/galacti-chrons-sci-fi-warehouse-tileset"
+                }],
          "spacing":0,
          "tilecount":1995,
          "tileheight":32,
