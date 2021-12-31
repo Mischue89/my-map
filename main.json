@@ -8,6 +8,12 @@
          "id":43,
          "name":"start",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -317,15 +323,6 @@
                          "name":"tilesetCopyright",
                          "type":"string",
                          "value":"Assets\nRC3 2021"
-                        }]
-                }, 
-                {
-                 "id":1,
-                 "properties":[
-                        {
-                         "name":"startLayer",
-                         "type":"bool",
-                         "value":true
                         }]
                 }, 
                 {
